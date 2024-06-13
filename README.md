@@ -4,5 +4,7 @@ Nice to meet you, my name is Eric and I'm a 2nd year CS student@Georgia Tech ğŸ
 
 ![](https://raw.githubusercontent.com/mxple/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mxple/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<!--
 ![](https://raw.githubusercontent.com/mxple/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mxple/github-stats/master/generated/languages.svg#gh-light-mode-only)
+-->
